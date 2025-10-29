@@ -17,10 +17,10 @@ export const AboutSection = () => {
                     <div className="space-y-6">
                         <h3 className="text-xl font-semibold">Passionate Web Developer</h3>
                         <p className="text-muted-foreground">
-                            Whatever text I want to include here to describe my passion for web development.
+                            I love designing websites that are not only visually appealing but also user-friendly and efficient.
                         </p>
                         <p className="text-muted-foreground">
-                            And another paragraph to elaborate on my skills and experiences.
+                            I've learned to use many tools and technologies to bring my ideas to life, and I'm always eager to learn more.
                         </p>
 
                         <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">

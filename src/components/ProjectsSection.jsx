@@ -5,8 +5,8 @@ import { ArrowRight } from "lucide-react";
 const projects = [
     {
         id:1,
-        title: "Project One",
-        description: "Description for project one.",
+        title: "Jobboard",
+        description: "Creation of a Jobboard web application using Symphony",
         imageUrl: "/projects/placeholder1.png",
         tags: ["React", "JavaScript", "TailwindCSS"],
         demoUrl: "#",
